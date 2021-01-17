@@ -34768,12 +34768,6 @@
 	},
 /turf/open/floor/engine/n2o,
 /area/engine/atmos)
-"bKJ" = (
-/obj/machinery/light/small{
-	dir = 4
-	},
-/turf/open/floor/engine/n2o,
-/area/engine/atmos)
 "bKL" = (
 /obj/machinery/telecomms/processor/preset_two,
 /turf/open/floor/circuit/telecomms/mainframe,
@@ -36663,10 +36657,6 @@
 /turf/open/floor/engine/plasma,
 /area/engine/atmos)
 "bPy" = (
-/turf/open/floor/engine/plasma,
-/area/engine/atmos)
-"bPz" = (
-/obj/effect/landmark/xeno_spawn,
 /turf/open/floor/engine/plasma,
 /area/engine/atmos)
 "bPA" = (
@@ -43588,10 +43578,6 @@
 	dir = 8
 	},
 /turf/open/floor/engine/o2,
-/area/engine/atmos)
-"cji" = (
-/obj/effect/landmark/xeno_spawn,
-/turf/open/floor/engine/air,
 /area/engine/atmos)
 "cjj" = (
 /obj/machinery/portable_atmospherics/canister/air,
@@ -125717,7 +125703,7 @@ cei
 cfy
 cgB
 chT
-cji
+ckI
 ckI
 bAR
 aaf
@@ -128269,10 +128255,10 @@ bEe
 bGb
 bAR
 bJd
-bKJ
+bJd
 bMn
 bAR
-bPz
+bPy
 bQZ
 bSl
 bAR
